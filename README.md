@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Natalija — Game QA Tester & LQA Specialist
+# 👋 Hi, I'm Natalija – Game QA Tester & LQA Specialist
 
 Welcome to my GitHub!  
-I'm a **Game QA Tester, LQA Specialist, and Translator** with 13+ years in localization and 3+ years in functional QA testing.  
+I'm a **Game QA Tester, LQA Specialist, and Translator** with 13+ years in localization and 5+ years in functional QA testing.  
 I work across **mobile & PC testing**, **LQA**, **UI/UX validation**, and **bug reporting** using Jira.
 
 I’m currently expanding my technical skills through **AI/ML studies**, Python practice, and QA‑focused projects.
@@ -9,74 +9,49 @@ I’m currently expanding my technical skills through **AI/ML studies**, Python 
 ---
 
 ## 🎮 Game QA & Testing
-- Functional testing (mobile & PC)
-- Regression testing & exploratory testing
-- UI/UX validation, layout checks, text overflow detection
-- Bug reporting with clear repro steps (Jira)
-- Cross‑platform testing (Android, Windows)
-- LQA for major gaming titles (Epic Games, Rocket League, Dragon City, Girl’s Frontline)
+- Functional, regression & exploratory testing (mobile & PC)
+- Test case execution & scenario validation
+- UI/UX checks, layout validation & text overflow detection
+- Detailed bug reporting with repro steps, logs & visual evidence (Jira)
+- Cross‑platform testing (Android devices, emulators, Windows)
+- Gameplay behavior evaluation & platform behavior analysis
+- LQA for multiple international game publishers and live‑service titles (NDA‑compliant)
 
 ---
 
 ## 🌍 Localization & LQA
-- EN→DE, DE↔HR translation
-- Software/UI localization
-- MTPE workflows & terminology management
-- Style & consistency QA
-- Millions of words localized across automotive, IT, gaming, and technical domains
+- English → German, English → Croatian, German ↔ Croatian
+- Software/UI localization & terminology management
+- Linguistic QA, consistency checks & style validation
+- MT evaluation & post‑editing workflows
+- 500+ localization projects/year with measurable quality improvements
+- Automotive, IT, gaming & technical domains
 
 ---
 
 ## 🧪 Technical Skills
-- Basic Python (DataCamp)
-- REST API fundamentals
-- Regex for QA
-- File engineering, OCR, DTP support
-- AI‑enhanced localization workflows
+- Python fundamentals
+- REST API basics & API testing with Postman
+- Power BI reporting & data analysis
+- Regex for QA & text processing
+- File engineering, OCR & DTP support
+- AI‑enhanced QA and localization workflow
 
 ---
 
 ## 🛠 Tools & Platforms
-- Jira, Confluence, GitHub
-- Android devices & emulators, Windows environments
-- memoQ, Trados Studio, Phrase, XTM, Smartling
-- Asana, Trello, Slack
-- AWS, Azure
-
----
-
-## 📂 Featured Repositories (Coming Soon)
-I’m building a QA and localization engineering portfolio that will include:
-
-### 🔹 **qa-test-cases** 🧪
-Test cases, checklists, and test scenarios for mobile & PC apps.
-
-### 🔹 **bug-reports-portfolio** 🐞
-Sample bug reports written in Jira style with repro steps and screenshots.
-
-### 🔹 **game-qa-portfolio** 🎮
-LQA examples, UI/UX issues, text overflow samples, and gameplay testing notes.
-
-### 🔹 **python-for-qa-practice** 🐍
-Small Python scripts for QA automation basics and text processing.
-
-### 🔹 **tmx-language-conversion** 🔤
-Examples of modifying TMX files (e.g., changing locale codes from en‑US → en‑UK), validating XML structure, and ensuring translation memory consistency.
-
-### 🔹 **bilingual-file-samples** 📄
-Sample SDLXLIFF, MQXLIFF, and other bilingual formats with notes on segmentation, tags, inline QA, and common issues found during LQA or MTPE.
-
-### 🔹 **localization-engineering-examples** 🛠️
-Small demos showing regex cleanup, terminology normalization, tag repair, and file preparation steps used in localization workflows.
-
-✨ More repositories will be added soon.
-
----
-
+- QA & Project Tools: Jira, Confluence, GitHub, Asana, Trello, Slack
+- Localization Tools: memoQ, Trados Studio, Phrase, XTM, Smartling
+- Testing Environments: Android devices & emulators, Windows
+- Cloud & Tech: AWS, Azure
+- Other: Screenshot/video capture tools, CLI, regex QA tools
+  
 ## 📫 Contact
-- **Email:** zirafinjezik@gmail.com  
-- **LinkedIn:** linkedin.com/in/natalija-maric-zirafinjezik  
-- **Website:** www.zirafinjezik.hr  
-- **ProZ:** proz.com/profile/2866207  
+- Email: zirafinjezik@gmail.com
+- LinkedIn: linkedin.com/in/natalija-maric-zirafinjezik
+- Website: www.zirafinjezik.hr
+- ProZ: proz.com/profile/286620
+
+
 
 Thanks for visiting my GitHub!
