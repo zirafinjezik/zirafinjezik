@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Natalija – Localization Engineer & LQA Specialist
+# 👋 Hi, I'm Natalija – Game Translator, Localization Engineer & LQA Specialist
 
 Welcome to my GitHub!
 
-I'm a Localization Engineer and LQA Specialist with 14+ years of experience across game localization, technical translation, and quality assurance. I work with EN→DE, EN→HR, and DE↔HR language pairs and specialise in building workflows and tools that make localization processes faster, more consistent, and more measurable.
+I'm a Game Translator, Localization Engineer and LQA Specialist with 14+ years of experience across game localization, technical translation, and quality assurance. I work with EN→DE, EN→HR, and DE↔HR language pairs and specialise in building workflows and tools that make localization processes faster, more consistent, and more measurable.
 
 I'm currently expanding my technical skills through a Postgraduate Programme in AI, Machine Learning and Innovation Technology (60 ECTS) – MIA Digital University / UDIMA and applying that knowledge to localization engineering and QA automation.
 
