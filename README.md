@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Natalija – Game Translator, Localization Engineer & LQA Specialist
+# 👋 Hi, I'm Natalija – Game Translator & LQA Specialist
 
 Welcome to my GitHub!
 
