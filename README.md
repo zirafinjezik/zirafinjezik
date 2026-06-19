@@ -69,7 +69,7 @@ See the [Certifications repository](https://github.com/zirafinjezik/certificatio
 - Women in Localization
 - Women in AI
 - CroAI
-- International Game Developers Association Individual Member  
+- International Game Developers Association
 - Translators Without Borders
 
 ---
