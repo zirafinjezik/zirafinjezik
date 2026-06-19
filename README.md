@@ -23,7 +23,7 @@ I'm currently expanding my technical skills through a Postgraduate Programme in 
 - **Localization:** Across, CafeTran, Crowdin, GlobalLink, Heartsome Translation Studio, Lokalise, memoQ, OmegaT, Phrase, Smartcat, SmartEditor, Smartling, Swordfish, Trados Studio, Transit NXT, Wordbee, Wordfast, Wordscope, XTM  
 - **QA Tools:** Verifika, Xbench
 - **Bug Tracking:** Jira, TestRail  
-- **Project Management:** Asana, Monday, Plunet, Trello, XTRF
+- **Project Management:** Asana, Monday, Plunet, Protemos, Trello, XTRF
 - **Dev Tools:** Git, GitHub, Python, React, Vite
 - **Cloud:** AWS, Azure, Google Cloud
 
