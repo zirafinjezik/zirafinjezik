@@ -32,7 +32,7 @@ I'm currently expanding my technical skills through a Postgraduate Programme in 
 ## 🚀 Featured Projects
 
 ### 🔍 LQA Lifecycle Tools
-A suite of three open-source tools covering the full LQA workflow:
+A suite of open-source tools covering the full LQA workflow:
 
 | Tool | Purpose | Demo |
 |---|---|---|
