@@ -31,19 +31,23 @@ I'm currently expanding my technical skills through a Postgraduate Programme in 
 
 ## 🚀 Featured Projects
 
+### 🔁 Continuous Localization QA
+
+**[loc-qa-pipeline](https://github.com/zirafinjezik/loc-qa-pipeline)** connects the tools below into one CI workflow: string tables live in the repo, and every pull request runs an automated QA gate (placeholder parity, character limits, coverage, punctuation, whitespace, numbers) plus pseudo-localization. Errors block the merge; the QA report ships as a build artifact.
+
 ### 🔍 LQA Lifecycle Tools
 A suite of open-source tools covering the full LQA workflow:
 
 | Tool | Purpose | Demo |
 |---|---|---|
-| [MQM Error Scorer](https://github.com/zirafinjezik/mqm_checker) | Log errors, score quality, export Excel reports | [mqm-checker.vercel.app](https://mqm-checker.vercel.app) |
-| [LQA Checker](https://github.com/zirafinjezik/lqa_checker) | String QA: character limits, placeholders, punctuation, whitespace, numbers | [lqa-checker.vercel.app](https://lqa-checker.vercel.app) |
-| [LQA Challenge](https://github.com/zirafinjezik/lqa_game) | Gamified LQA training game with leaderboard | [lqa-game.vercel.app](https://lqa-game.vercel.app) |
+| [MQM Error Scorer](https://github.com/zirafinjezik/mqm_checker) | Log errors, score quality, export Excel reports | [mqm.zirafinjezik.hr](https://mqm.zirafinjezik.hr) |
+| [LQA Checker](https://github.com/zirafinjezik/lqa_checker) | String QA: character limits, placeholders, punctuation, whitespace, numbers | [lqa.zirafinjezik.hr](https://lqa.zirafinjezik.hr) |
+| [LQA Challenge](https://github.com/zirafinjezik/lqa_game) | Gamified LQA training game with leaderboard | [game.zirafinjezik.hr](https://game.zirafinjezik.hr) |
 
 ### ⚙️ Localization Engineering
 | Tool | Purpose | Demo |
 |---|---|---|
-| [TMX Language Conversion](https://github.com/zirafinjezik/tmx-language-conversion) | Realign locale codes in TMX translation memory files; browser tool plus Python CLI | [tmx-language-conversion.vercel.app](https://tmx-language-conversion.vercel.app) |
+| [TMX Language Conversion](https://github.com/zirafinjezik/tmx-language-conversion) | Realign locale codes in TMX translation memory files; browser tool plus Python CLI | [tmx.zirafinjezik.hr](https://tmx.zirafinjezik.hr) |
 
 ---
 
