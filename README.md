@@ -37,8 +37,8 @@ A suite of three open-source tools covering the full LQA workflow:
 | Tool | Purpose | Demo |
 |---|---|---|
 | [MQM Error Scorer](https://github.com/zirafinjezik/mqm_checker) | Log errors, score quality, export Excel reports | [mqm-checker.vercel.app](https://mqm-checker.vercel.app) |
-| [LQA Checker](https://github.com/zirafinjezik/lqa_checker) | Validate character limits and punctuation consistency | [lqa-checker-s7wi.vercel.app](https://lqa-checker-s7wi.vercel.app) |
-| [LQA Challenge](https://github.com/zirafinjezik/lqa_game) | Gamified MQM training tool with leaderboard | [lqa-game.vercel.app](https://lqa-game.vercel.app) |
+| [LQA Checker](https://github.com/zirafinjezik/lqa_checker) | String QA: character limits, placeholders, punctuation, whitespace, numbers | [lqa-checker.vercel.app](https://lqa-checker.vercel.app) |
+| [LQA Challenge](https://github.com/zirafinjezik/lqa_game) | Gamified LQA training game with leaderboard | [lqa-game.vercel.app](https://lqa-game.vercel.app) |
 
 ### ⚙️ Localization Engineering
 | Tool | Purpose | Demo |
