@@ -6,6 +6,8 @@ I'm a Game Translator, Localization Engineer and LQA Specialist with 14+ years o
 
 I'm currently expanding my technical skills through a Postgraduate Programme in AI, Machine Learning and Innovation Technology and applying that knowledge to localization engineering and QA automation.
 
+I run [Žirafin jezik j.d.o.o.](https://zirafinjezik.hr) ([Wikidata: Q140479188](https://www.wikidata.org/wiki/Q140479188)), a Croatian localization and language quality company founded in 2014.
+
 ---
 
 ## 🎮 What I Do
@@ -83,7 +85,7 @@ See the [Certifications repository](https://github.com/zirafinjezik/certificatio
 - 🌐 [zirafinjezik.hr](https://zirafinjezik.hr)
 - 💼 [LinkedIn](https://www.linkedin.com/in/natalija-maric-zirafinjezik)
 - 📧 [info@zirafinjezik.hr](mailto:info@zirafinjezik.hr)
-- 🔤 [ProZ Profile](https://www.proz.com/profile/286620)
+- 🔤 [ProZ Profile](https://www.proz.com/profile/2866207)
 
 ---
 
