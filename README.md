@@ -74,7 +74,7 @@ A suite of open-source tools covering the full LQA workflow:
 
 **Certificates**
 
-See the [Certifications repository](https://github.com/zirafinjezik/certifications) for a full list of credentials across localization, LangOps, AI/ML, quality governance, and TMS infrastructure.
+See the [Certifications repository](https://github.com/zirafinjezik/certifications) for a curated list of credentials across localization, LangOps, AI/ML, quality governance, and TMS infrastructure.
 
 **Memberships:**
 - CIOL MCIL CL
