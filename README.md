@@ -4,15 +4,15 @@ Welcome to my GitHub!
 
 I'm a chartered linguist (DipTrans MCIL CL) with 14+ years in translation and localization, now designing the systems around it: localization pipelines, LLM workflow orchestration, and quality governance you can measure. I work across EN→DE, EN→HR, and DE↔HR, mostly in game, technical, medical, and automotive content.
 
-The through line: 14 years of knowing what good translation looks like, applied to building the infrastructure that produces it at scale.
+I apply 14 years' knowledge of what a good translation looks like to building the infrastructure that produces it at scale.
 
 I'm currently expanding the engineering side through a Postgraduate Programme in AI, Machine Learning and Innovation Technology.
 
-I run [Žirafin jezik j.d.o.o.](https://zirafinjezik.hr) ([Wikidata: Q140479188](https://www.wikidata.org/wiki/Q140479188)), a Croatian localization and language quality company founded in 2014.
+I run [Žirafin jezik j.d.o.o.](https://zirafinjezik.hr), a Croatian localization and language quality company founded in 2014.
 
 ---
 
-## 🎮 What I Do
+## 🧱 What I Do
 
 - **Localization architecture** – end-to-end workflow design across multi-TMS ecosystems: connectors, validation gates, file engineering (XLIFF, XML, JSON, YAML), and migration planning
 - **LangOps & pipeline orchestration** – n8n and API middleware routing content between MT engines, LLMs, and human review; continuous localization wired into CI/CD
