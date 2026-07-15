@@ -37,14 +37,14 @@ I run [Žirafin jezik j.d.o.o.](https://zirafinjezik.hr) ([Wikidata: Q140479188]
 
 ## 🚀 Featured Projects
 
-### 🔁 Continuous Localization QA
-
-**[loc-qa-pipeline](https://github.com/zirafinjezik/loc-qa-pipeline)** connects the tools below into one CI workflow: string tables live in the repo, and every pull request runs an automated QA gate (placeholder parity, character limits, coverage, punctuation, whitespace, numbers) plus pseudo-localization. Errors block the merge; the QA report ships as a build artifact.
-
 ### 📐 Architecture & Decision Tools
 | Tool | Purpose | Demo |
 |---|---|---|
 | TMS Evaluation Scorecard | Weighted buyer-side framework for selecting a TMS in regulated and technical environments | [tms-scorecard.vercel.app](https://tms-scorecard.vercel.app/) |
+
+### 🔁 Continuous Localization QA
+
+**[loc-qa-pipeline](https://github.com/zirafinjezik/loc-qa-pipeline)** connects the LQA tools below into one CI workflow: string tables live in the repo, and every pull request runs an automated QA gate (placeholder parity, character limits, coverage, punctuation, whitespace, numbers) plus pseudo-localization. Errors block the merge; the QA report ships as a build artifact.
 
 ### 🔍 LQA Lifecycle Tools
 A suite of open-source tools covering the full LQA workflow:
