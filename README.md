@@ -59,7 +59,7 @@ A suite of open-source tools covering the full LQA workflow:
 | Tool | Purpose | Demo |
 |---|---|---|
 | [TMX Language Conversion](https://github.com/zirafinjezik/tmx-language-conversion) | Realign locale codes in TMX translation memory files; browser tool plus Python CLI | [tmx.zirafinjezik.hr](https://tmx.zirafinjezik.hr) |
-
+| [Green Claims Checker](https://github.com/zirafinjezik/green-claims-checker) | n8n workflow flagging EU 2024/825 environmental claims in EN→HR segments; rules first, local LLM only for ambiguous cases | Runs locally (Ollama)|
 ---
 
 ## 🌍 Languages
