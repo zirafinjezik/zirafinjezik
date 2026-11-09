@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Natalija – Localization Solutions Architect
+# 👋 Hi, I'm Natalija – Founder & Head of Localization Operations & Engineering
 
 Welcome to my GitHub!
 
