@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm a chartered linguist (DipTrans MCIL CL) with 14+ years in translation and localization, now designing the systems around it: localization pipelines, LLM workflow orchestration, and quality governance you can measure. I work across EN→DE, EN→HR, and DE↔HR, mostly in game, technical, medical, and automotive content.
+I'm a chartered linguist (DipTrans MCIL CL) with 14+ years in translation and localization, now designing the systems around it: localization pipelines, LLM workflow orchestration, and quality governance you can measure. I work across EN→DE, EN→HR, and DE↔HR, mostly in medical, technical, game, and automotive content.
 
 I apply 14 years' knowledge of what a good translation looks like to building the infrastructure that produces it at scale.
 
@@ -17,7 +17,7 @@ I run [Žirafin jezik j.d.o.o.](https://zirafinjezik.hr), a Croatian localizatio
 - **Localization architecture** – end-to-end workflow design across multi-TMS ecosystems: connectors, validation gates, file engineering (XLIFF, XML, JSON, YAML), and migration planning
 - **LangOps & pipeline orchestration** – n8n and API middleware routing content between MT engines, LLMs, and human review; continuous localization wired into CI/CD
 - **Quality governance** – MQM and ISO 5060 scoring architectures applied as data you can track and report, not a subjective gut call
-- **AI quality & evaluation** – LLM output evaluation, hallucination detection, and prompt frameworks for multilingual production
+- **MT & LLM output quality** – evaluation of machine and LLM translation output: hallucination and error detection, plus prompt frameworks for multilingual production
 - **Terminology governance** – enforceable termbases and glossary extraction across enterprise accounts
 - **Localization tooling** – browser and CLI tools for error scoring, file conversion, validation, and reporting (Python, React, Vite)
 
